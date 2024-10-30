@@ -1,0 +1,4 @@
+.*ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+8_devtown_data_science_training_Project[[:space:]]5[[:space:]]Olympics[[:space:]]Dataset.ipynb filter=lfs diff=lfs merge=lfs -text
+8_devtown_data_science_training_Project[[:space:]]5[[:space:]]Olympics[[:space:]]Dataset filter=lfs diff=lfs merge=lfs -text
